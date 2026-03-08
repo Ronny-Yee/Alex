@@ -1,0 +1,1 @@
+Help me prepare smart questions to ask my senior IT about our server infrastructure. Ask me which server or topic (AD Connect, TurboTax server, other towers) and what I already know. Then give me a list of specific questions to ask so I sound informed and learn the most from the conversation.

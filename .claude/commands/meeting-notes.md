@@ -1,0 +1,1 @@
+I just came out of a meeting. Ask me: which project or topic was it about, who was there, and what was discussed. Then organize my notes into clear action items, decisions made, and open questions. Save it to the relevant project folder with today's date.

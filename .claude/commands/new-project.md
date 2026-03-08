@@ -1,0 +1,1 @@
+I want to start tracking a new project. Ask me: project name, what's the goal, what's the current status, and any milestones I already know about. Then create a new folder under projects/ with a STATUS.md file organized with sections for Status, Goal, Current State, Milestones, and Notes.

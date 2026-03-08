@@ -1,0 +1,1 @@
+Help me audit Microsoft 365 licenses at familybridges.org. Walk me through exporting current license assignments, identifying unused or duplicate licenses, and finding users with licenses who shouldn't have them. Include PowerShell and Graph API approaches with inline comments.

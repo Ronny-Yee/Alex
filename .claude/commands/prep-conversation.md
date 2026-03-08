@@ -1,0 +1,1 @@
+I need to prepare for a conversation at work. Ask me: who am I talking to, what's the topic, and what outcome do I want. Then help me plan what to say, what to avoid, and how to handle pushback. Give me actual phrases I can use.

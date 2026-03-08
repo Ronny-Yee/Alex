@@ -1,0 +1,1 @@
+Help me review or troubleshoot a VPN configuration. Ask me: site-to-site or peer-to-peer, what hardware (Meraki, etc.), and what the issue or goal is. Then walk through routing, firewall rules, authentication, and failover.

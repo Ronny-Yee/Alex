@@ -1,0 +1,1 @@
+I want to update a project. Ask me which project. Then read the STATUS.md file in that project folder, ask me what changed, and update the file with the new information. Keep the milestones and notes current.
