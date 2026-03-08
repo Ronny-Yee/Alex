@@ -1,1 +1,1 @@
-Help me draft a professional email. Ask me: who is it to, what's the purpose, and what tone (formal, friendly, escalation). Then draft it for me.
+Help me draft a professional email. Ask me: who is it to, what's the purpose, and what tone (formal, friendly, escalation). Then draft it for me. Never ask for real names - use placeholders if needed.

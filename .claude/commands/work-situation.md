@@ -1,1 +1,1 @@
-I need to talk through a work situation. Ask me: what happened, who's involved, and how I'm feeling about it. Then help me see it from all angles and give me 2-3 options for how to handle it — a safe play, a direct approach, and a strategic move. Be real with me.
+I need to talk through a work situation. Ask me what happened and how I'm feeling. Then help me see all angles and give 2-3 options: safe play, direct approach, strategic move. Be real with me. Never ask for real names.

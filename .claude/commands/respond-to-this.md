@@ -1,1 +1,1 @@
-I got a message or email I'm not sure how to respond to. I'll paste it or describe it. Help me understand the tone and intent behind it, then draft 2-3 response options — one safe, one direct, one strategic. Let me pick which fits.
+I got a message or email I'm not sure how to respond to. I'll describe the situation. Help me understand the tone and intent, then draft 2-3 response options - one safe, one direct, one strategic. Let me pick which fits.
