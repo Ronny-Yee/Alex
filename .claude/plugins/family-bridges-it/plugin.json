@@ -1,0 +1,7 @@
+{
+  "name": "family-bridges-it",
+  "display_name": "Family Bridges IT Ops",
+  "description": "Custom IT operations plugin for Ronnie Yee at Family Bridges. Handles M365, Intune, Entra ID, Meraki, Intermedia Unite, Jira, PowerShell, vendor communications, SOPs, and board reports.",
+  "version": "2.0.0",
+  "author": "Ronnie Yee"
+}
