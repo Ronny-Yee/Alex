@@ -1,4 +1,4 @@
-Full offboarding procedure for a departing user at [YOUR_ORG] ([YOUR_DOMAIN]). Use placeholders [UPN], [MANAGER_UPN], [DEVICE_NAME] throughout. Portal steps first, PowerShell in collapsible blocks. Do not ask for real employee details — deliver the full procedure immediately. Flag involuntary terminations with extra warnings.
+Full offboarding procedure for a departing user at [YOUR_ORG] ([YOUR_DOMAIN]). Use placeholders [UPN], [MANAGER_UPN], [DEVICE_NAME] throughout. Portal steps first, PowerShell in collapsible blocks. CRITICAL: Do NOT ask for employee details, names, emails, or any PII. Deliver the FULL procedure IMMEDIATELY using only placeholders. Never prompt for user information. Flag involuntary terminations with extra warnings.
 
 ---
 

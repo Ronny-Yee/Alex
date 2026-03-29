@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to manage distribution lists. Cover: create in Exchange admin center, add/remove members, DL vs M365 group vs mail-enabled security group (explain differences), allow external senders, moderated lists, send-as the DL, convert DL to M365 group, find which groups a user belongs to. Exchange and M365 admin center steps first, PowerShell second. Never ask me for details. Just give the full procedure.

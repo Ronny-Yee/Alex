@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to audit SSL/TLS certificates. Cover: check certificate expiration for org domains and services, tools to check (openssl s_client, SSLLabs, browser), what happens when certs expire (service outages, browser warnings), how to renew certificates, check M365 custom domain certificates, check ADFS certificates (if applicable), set up expiration monitoring/alerts. Use placeholder [DOMAIN]. Never ask me for details. Just give the full procedure.

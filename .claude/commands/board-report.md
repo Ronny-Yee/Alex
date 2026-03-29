@@ -1,3 +1,5 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Help me prepare an IT summary report or board presentation for [YOUR_ORG] leadership. Ask me what type of document and what I want to cover.
 
 ---

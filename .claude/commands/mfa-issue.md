@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot MFA. Cover: user locked out (temporarily disable requirement), new phone re-registration, delete old methods and force re-register, not getting prompts (check auth methods, CA policies), new user first-time MFA setup flow, check registered methods, SMS not working, SSPR setup alongside MFA. Entra ID portal steps first, PowerShell second. Explain Conditional Access in plain English. Never ask me for details. Just give the full procedure.

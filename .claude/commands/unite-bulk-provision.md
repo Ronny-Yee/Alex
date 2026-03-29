@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to bulk-provision Intermedia Unite extensions. Cover: download CSV template from Intermedia admin portal, fill in fields (name, extension, DID, email, voicemail PIN, department), import CSV, verify all extensions created correctly, assign desk phones in bulk, common import errors and fixes. Use this for the Hong Fook and Harrison site migrations. Use placeholders. Never ask me for details. Just give the full procedure.

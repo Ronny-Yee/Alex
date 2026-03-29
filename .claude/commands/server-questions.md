@@ -1,3 +1,5 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 # Server Infrastructure — Checks & Questions Guide — [YOUR_DOMAIN]
 
 Use placeholders below. Replace with actual values when running.

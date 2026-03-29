@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me a plain-English explanation and step-by-step guide for Conditional Access. Cover: what it is (if-this-then-that for sign-ins), view existing policies, common policies (block legacy auth, require MFA, require compliant device, block foreign sign-ins, MFA for admins), create new policy step by step, test with Report-only mode, What If tool, break-glass account warning. Entra ID portal steps first. Explain everything simply. Never ask me for details. Just give the full procedure.

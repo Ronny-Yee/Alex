@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to generate an Azure cost report. Cover: navigate to Cost Management (portal.azure.com > Cost Management + Billing > Cost analysis), view cost by resource, resource group, service, and time period, set up budget alerts, identify cost anomalies and spikes, export cost data, set up scheduled cost reports, Azure Advisor cost recommendations, reserved instance savings analysis. Use placeholders. Portal steps first. Never ask me for details. Just give the full procedure.

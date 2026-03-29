@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to analyze risky sign-in events. Cover: navigate to risky sign-ins (entra.microsoft.com > Protection > Identity Protection > Risky sign-ins), understand detection types (anonymous IP, atypical travel, malware-linked IP, unfamiliar sign-in properties, impossible travel), how to investigate each type, how to confirm or dismiss, how to build CA policies that respond to sign-in risk in real-time. Use placeholders. Never ask me for details. Just give the full procedure.

@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me a reusable template for PowerShell bulk operations using CSV input. Cover: CSV template with headers, Import-Csv to read, ForEach-Object loop, try/catch error handling per row, progress bar (Write-Progress), output results to a log CSV (success/failure per row), common bulk operations (add users to group, assign licenses, reset passwords, disable accounts). Include a complete working template I can customize. Explain every line in plain English. Never ask me for details. Just give the full template.

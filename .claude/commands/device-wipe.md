@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to wipe or retire a device in Intune. Cover: when to use full wipe vs selective wipe, find device in Intune admin center, initiate wipe/retire, monitor status, remove device from Intune, delete from Entra ID, remove from Autopilot, re-enroll if reassigned. Use placeholders like [DEVICE_NAME]. Admin portal steps first, PowerShell for reference second. Include full wipe warning. Never ask me for details. Just give the full procedure.

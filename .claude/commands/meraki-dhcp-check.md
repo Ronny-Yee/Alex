@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to audit DHCP on Meraki. Cover: check DHCP configuration per VLAN (dashboard.meraki.com > Security & SD-WAN > Addressing & VLANs), view DHCP lease table, check scope utilization (how many IPs are available vs leased), configure DHCP reservations for static devices (printers, phones, servers), set DNS servers, check for DHCP conflicts or rogue DHCP servers. Use placeholders like [VLAN_ID], [IP_RANGE]. Never ask me for details. Just give the full procedure.

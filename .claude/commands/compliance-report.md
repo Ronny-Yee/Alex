@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to generate an Intune compliance report. Cover: navigate to compliance dashboard (intune.microsoft.com > Devices > Compliance), view device compliance by policy, export non-compliant device list, common non-compliance reasons (OS out of date, no encryption, no password, jailbroken), how to fix each, how to set up email notifications for non-compliance, grace period configuration. Use placeholders. Portal steps first. Never ask me for details. Just give the full procedure.

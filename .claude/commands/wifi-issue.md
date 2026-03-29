@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot Wi-Fi. Cover: can't connect, connected no internet, slow Wi-Fi, intermittent drops, SSID not showing, guest Wi-Fi issues, Meraki dashboard checks (AP status, signal, channel, client history). Use placeholders like [SSID], [AP_NAME]. Meraki dashboard steps first. Never ask me for details. Just give the full procedure.

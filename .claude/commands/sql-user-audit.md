@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me a step-by-step guide to audit database users and permissions. Cover: list all database users and roles (SQL Server: sys.database_principals, sp_helprolemember; PostgreSQL: \du), check login permissions, identify orphaned users, check for sysadmin/superuser access, review schema permissions, audit connection logs, remove unnecessary permissions, principle of least privilege applied to databases. Explain in plain English. Use placeholders. Never ask me for details. Just give the full guide.

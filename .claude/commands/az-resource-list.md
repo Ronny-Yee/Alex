@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to list and audit all Azure resources. Cover: Azure portal navigation (portal.azure.com > All resources), filter by subscription, resource group, type, location, export resource list, Azure CLI equivalent (az resource list), check for unused resources (unattached disks, empty resource groups, stopped VMs still incurring cost), tagging strategy for cost tracking. Use placeholders. Portal steps first, CLI second. Never ask me for details. Just give the full procedure.

@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to reset a user's password. Cover: reset in on-prem AD (ADUC) or Entra ID portal, temporary password with force change at next login, permanent reset option, how to force Entra Connect sync, how to force MFA re-registration, how to revoke active sessions, what to tell the user after. Use placeholders like [username]. Admin portal steps first, PowerShell for reference second. Never ask me for details. Just give the full procedure.

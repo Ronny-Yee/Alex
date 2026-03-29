@@ -1,3 +1,5 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Write an IT incident report for [YOUR_ORG]. Tell me what happened and I'll write the full report.
 
 ---

@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot printer issues. Cover: network printer not showing up, stuck print queue/spooler, driver issues, printer offline but powered on, one user can't print but others can, add new network printer, Meraki VLAN/DHCP check. Use placeholders like [PRINTER_IP]. GUI steps first, PowerShell spooler commands second. Never ask me for details. Just give the full procedure.

@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me a general IT troubleshooting framework for any issue. Cover: identify scope (one user/department/org), check known outages (M365 health, ISP, Meraki), gather details (what changed, when, reproducible?), isolate problem (device/network/account/app), test basic fixes (restart, cache, updates), escalate if needed (Microsoft, vendor, senior IT), document resolution. Never ask me for details. Just give the framework.

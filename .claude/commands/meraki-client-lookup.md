@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to find a specific client on the Meraki network. Cover: search by MAC, IP, hostname, or username (dashboard.meraki.com > Network-wide > Clients > search bar), view client details (IP, VLAN, connected AP/switch port, signal strength, OS, data usage), client timeline (connection/disconnection events), check if client is on expected VLAN, check for IP conflicts. Use placeholders like [CLIENT_MAC], [CLIENT_IP]. Never ask me for details. Just give the full procedure.

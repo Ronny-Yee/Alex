@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to reset voicemail for an Intermedia Unite user. Cover: navigate to user in admin portal (Users > [user] > Voicemail), reset PIN to default, clear existing greetings, reconfigure voicemail-to-email notification, test voicemail by calling the extension and leaving a message, verify email notification arrives. Use placeholder [EXTENSION], [USER_NAME]. Never ask me for details. Just give the full procedure.

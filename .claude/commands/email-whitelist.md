@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to whitelist a sender or domain. Cover all options: anti-spam policy allowed senders in Defender, Exchange transport rule, safe senders in OWA, connection filter IP allow list. Explain security tradeoffs of each method. Use placeholders like [sender email], [domain]. Admin portal steps first. Recommend safest approach. Never ask me for details. Just give the full procedure.

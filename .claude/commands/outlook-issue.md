@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot Outlook. Cover: won't open (safe mode, repair, new profile), not syncing, can't send/receive, shared mailbox not showing, calendar issues, keeps asking for password (credential manager), search not working, out of office not working. Windows GUI and Outlook settings first, Exchange admin center second. Never ask me for details. Just give the full procedure.

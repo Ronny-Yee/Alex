@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to review or troubleshoot VPN. Cover: site-to-site status in Meraki dashboard, client VPN settings and auth issues, common issues (tunnel up no traffic, split vs full tunnel, DNS over VPN), firewall rules in Meraki MX, routing tables and subnets, when to restart vs escalate. Use placeholders like [SITE_A], [SITE_B]. Meraki dashboard steps first. Never ask me for details. Just give the full procedure.

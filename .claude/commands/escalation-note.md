@@ -1,3 +1,5 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Draft a vendor or Microsoft escalation note for [YOUR_ORG] IT. Ask me what vendor and what the issue is. Never ask for employee details.
 
 ---

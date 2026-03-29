@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to audit all Intune configuration profiles. Cover: list all profiles (intune.microsoft.com > Devices > Configuration), check assignment scope for each, identify conflicting profiles (same setting configured differently), check profile deployment status (success/error/pending per device), find profiles with no assignments (orphaned), review settings catalog vs templates. Use placeholders. Portal steps first. Never ask me for details. Just give the full procedure.

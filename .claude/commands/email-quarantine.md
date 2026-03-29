@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to check and release quarantined emails. Cover: access quarantine in Defender portal (security.microsoft.com), search by sender/recipient/date, review why it was quarantined, release the message, report false positive, add sender to allow list, set up quarantine notifications. Use placeholders like [sender], [recipient]. Admin portal steps first. Never ask me for details. Just give the full procedure.

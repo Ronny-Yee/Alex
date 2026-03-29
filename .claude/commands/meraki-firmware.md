@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to check and manage Meraki firmware. Cover: check current firmware per device (dashboard.meraki.com > Organization > Firmware), view pending upgrades, schedule firmware upgrades (during maintenance window), review firmware release notes, how to rollback if upgrade causes issues, set firmware upgrade strategy (stable vs candidate). Use placeholders. Warn about scheduling upgrades during business hours. Never ask me for details. Just give the full procedure.

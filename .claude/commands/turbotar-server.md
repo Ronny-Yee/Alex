@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Help me understand and manage the TurboTax server. Cover: what it typically does, common access reasons, check if online (ping, RDP, services), user can't access (network path, permissions, service), verify who has access, backup considerations, smart questions to ask senior IT (server name/IP, location, who manages it, backup plan, access permissions, upgrade status). Never ask me for details. Just give the full procedure.

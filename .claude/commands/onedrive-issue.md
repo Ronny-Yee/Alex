@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot OneDrive sync. Cover: not syncing (system tray errors, pause/resume), files stuck in sync pending, not signing in (reset OneDrive), storage full (check quota, increase), full reset nuclear option, files on demand issues, shared library sync. Windows GUI steps first. Never ask me for details. Just give the full procedure.

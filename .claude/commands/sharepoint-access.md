@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to grant SharePoint access. Cover: internal user with view/edit/full control, external user with sharing enabled, access to specific library or folder, how to check external sharing settings in admin center, how to remove access, common issues like access denied after granting. Use placeholders like [user email], [site name]. Admin portal steps first. Never ask me for details. Just give the full procedure.

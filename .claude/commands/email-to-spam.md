@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot why emails are landing in spam/junk. Cover: inbound vs outbound, check message headers for SCL, check SPF/DKIM/DMARC, check mail flow rules, check Defender anti-spam policies, check OWA junk settings, check public blocklists, check our own SPF/DKIM/DMARC for outbound, use Message Trace. Admin portal steps first, PowerShell for reference second. Never ask me for details. Just give the full procedure.

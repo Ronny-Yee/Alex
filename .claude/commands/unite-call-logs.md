@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to pull call detail records from Intermedia Unite. Cover: navigate to call logs in admin portal, filter by extension, date range, call type (inbound, outbound, missed, internal), export to CSV, analyze call volume patterns, identify missed call trends, check call duration for support quality, use for VoIP migration validation (compare call volumes before and after). Use placeholders. Never ask me for details. Just give the full procedure.

@@ -1,4 +1,4 @@
-Full onboarding procedure for a new user at [YOUR_ORG] ([YOUR_DOMAIN]). Use placeholders [FIRST_NAME], [LAST_NAME], [DEPARTMENT], [MANAGER], [UPN] throughout. Portal steps first, PowerShell in collapsible blocks. Do not ask for real employee details — deliver the full procedure immediately.
+Full onboarding procedure for a new user at [YOUR_ORG] ([YOUR_DOMAIN]). Use placeholders [FIRST_NAME], [LAST_NAME], [DEPARTMENT], [MANAGER], [UPN] throughout. Portal steps first, PowerShell in collapsible blocks. CRITICAL: Do NOT ask for employee details, names, emails, or any PII. Deliver the FULL procedure IMMEDIATELY using only placeholders. Never prompt for user information.
 
 ---
 

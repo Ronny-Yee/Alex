@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to check overall Meraki network health. Cover: dashboard overview (dashboard.meraki.com > Organization > Overview), check MX uplink status per site, AP status (online/offline/alerting), switch port status, client count per site, WAN throughput and latency, top talkers/applications, event log for recent issues, check for firmware upgrade notifications. Cover all 4 Family Bridges sites. Use placeholders. Never ask me for details. Just give the full procedure.

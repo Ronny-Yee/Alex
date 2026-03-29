@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to troubleshoot LAN/WAN. Cover: single user down (cable, NIC, DHCP), multiple users down (Meraki switch/AP), slow network (bandwidth, client count), WAN down (Meraki MX uplink, ISP), VLAN issues, DNS issues, Meraki dashboard checks, when to call Comcast. Use placeholders like [SWITCH_NAME], [VLAN_ID]. Meraki dashboard and GUI steps first. Never ask me for details. Just give the full procedure.

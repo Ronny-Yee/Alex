@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to deploy or install software. Cover: check Intune Company Portal first, push from Intune admin center, add new app to Intune (Win32, MSI, Store), assign to user/device group, manual install fallback, check install status, common issues (stuck, not appearing, version conflicts). Intune admin center steps first. Never ask me for details. Just give the full procedure.

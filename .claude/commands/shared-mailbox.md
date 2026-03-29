@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to create and manage shared mailboxes. Cover: create in Exchange admin center, add members, send-as vs send-on-behalf (explain difference), auto-mapping vs manual add in Outlook, convert user mailbox to shared, set up alias, no license needed (explain), common issues. Exchange admin center steps first, PowerShell second. Never ask me for details. Just give the full procedure.

@@ -1,1 +1,3 @@
+IMPORTANT: Do NOT ask for employee details, names, emails, departments, or any identifying info. Deliver the FULL procedure IMMEDIATELY using only placeholders like [FIRST_NAME], [UPN], [DEVICE_NAME], [DEPARTMENT]. The user will substitute real values themselves.
+
 Give me the step-by-step process to check app installation status. Cover: navigate to app status (intune.microsoft.com > Apps > All apps > [APP_NAME] > Device install status), interpret status codes (installed, failed, pending, not applicable), common failure reasons and fixes, per-user vs per-device install view, how to retry failed installations, check Intune Management Extension logs on the endpoint. Use placeholder [APP_NAME]. Portal steps first. Never ask me for details. Just give the full procedure.
