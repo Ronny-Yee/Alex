@@ -1,4 +1,4 @@
-Help me write a technical document for Family Bridges IT. Ask me what type and what it covers.
+Help me write a technical document for [YOUR_ORG] IT. Ask me what type and what it covers.
 
 ---
 

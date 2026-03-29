@@ -1,8 +1,8 @@
-Write a Standard Operating Procedure (SOP) for Family Bridges IT. Tell me what process it covers and I'll write the full SOP document.
+Write a Standard Operating Procedure (SOP) for [YOUR_ORG] IT. Tell me what process it covers and I'll write the full SOP document.
 
 ---
 
-## SOP Writer — Family Bridges IT
+## SOP Writer — [YOUR_ORG] IT
 
 **Tell me:**
 1. What process does this SOP cover? (e.g., new user onboarding, device wipe, password reset, email quarantine)
@@ -15,8 +15,8 @@ Write a Standard Operating Procedure (SOP) for Family Bridges IT. Tell me what p
 
 ```
 STANDARD OPERATING PROCEDURE
-Family Bridges — IT Department
-familybridges.org
+[YOUR_ORG] — IT Department
+[YOUR_DOMAIN]
 
 Title: [Process Name]
 Version: 1.0

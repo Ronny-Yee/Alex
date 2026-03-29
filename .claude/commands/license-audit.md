@@ -1,4 +1,4 @@
-# M365 License Audit — familybridges.org
+# M365 License Audit — [YOUR_DOMAIN]
 
 Use placeholders below. Replace with actual values when running.
 

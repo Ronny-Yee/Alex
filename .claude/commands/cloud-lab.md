@@ -4,7 +4,7 @@ Help me with the next drill in my 30-day cloud engineering curriculum. Pick up w
 
 ## Cloud Lab — 30-Day Cloud Engineering Curriculum
 
-**Ronnie's goal:** Build cloud engineering skills toward a cloud-focused career. WGU Master's degree in progress.
+**[YOUR_NAME]'s goal:** Build cloud engineering skills toward a cloud-focused career. WGU Master's degree in progress.
 
 **Curriculum track:**
 1. Linux fundamentals
@@ -24,7 +24,7 @@ Help me with the next drill in my 30-day cloud engineering curriculum. Pick up w
 **Rules:**
 - Real labs, real commands — not theory
 - Use free tiers wherever possible (Azure free, local Docker, WSL2)
-- Connect to real-world IT scenarios at Family Bridges where relevant
+- Connect to real-world IT scenarios at [YOUR_ORG] where relevant
 - If I'm stuck, debug with me — don't just give the answer
 
 Tell me where you left off, or say "start from the beginning" and I'll kick off Drill 1.

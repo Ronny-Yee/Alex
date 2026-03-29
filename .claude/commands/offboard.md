@@ -1,8 +1,8 @@
-Full offboarding procedure for a departing user at Family Bridges (familybridges.org). Use placeholders [UPN], [MANAGER_UPN], [DEVICE_NAME] throughout. Portal steps first, PowerShell in collapsible blocks. Do not ask for real employee details — deliver the full procedure immediately. Flag involuntary terminations with extra warnings.
+Full offboarding procedure for a departing user at [YOUR_ORG] ([YOUR_DOMAIN]). Use placeholders [UPN], [MANAGER_UPN], [DEVICE_NAME] throughout. Portal steps first, PowerShell in collapsible blocks. Do not ask for real employee details — deliver the full procedure immediately. Flag involuntary terminations with extra warnings.
 
 ---
 
-## User Offboarding — Family Bridges
+## User Offboarding — [YOUR_ORG]
 
 **Placeholders used:** `[UPN]` = departing user's email · `[MANAGER_UPN]` = their manager's email · `[DEVICE_NAME]` = enrolled device name
 
@@ -177,7 +177,7 @@ Disable-ADAccount -Identity "[first.last]"
 
 # Plain English: Moves the account to the Disabled Users OU
 Move-ADObject -Identity (Get-ADUser "[first.last]").DistinguishedName `
-  -TargetPath "OU=Disabled Users,DC=familybridges,DC=org"
+  -TargetPath "OU=Disabled Users,DC=[ORG],DC=[TLD]"
 ```
 
 </details>

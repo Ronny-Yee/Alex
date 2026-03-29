@@ -1,10 +1,10 @@
-Full onboarding procedure for a new user at Family Bridges (familybridges.org). Use placeholders [FIRST_NAME], [LAST_NAME], [DEPARTMENT], [MANAGER], [UPN] throughout. Portal steps first, PowerShell in collapsible blocks. Do not ask for real employee details — deliver the full procedure immediately.
+Full onboarding procedure for a new user at [YOUR_ORG] ([YOUR_DOMAIN]). Use placeholders [FIRST_NAME], [LAST_NAME], [DEPARTMENT], [MANAGER], [UPN] throughout. Portal steps first, PowerShell in collapsible blocks. Do not ask for real employee details — deliver the full procedure immediately.
 
 ---
 
-## New User Onboarding — Family Bridges
+## New User Onboarding — [YOUR_ORG]
 
-**Placeholders used:** `[FIRST_NAME]` `[LAST_NAME]` `[UPN]` = [first.last@familybridges.org] `[DEPARTMENT]` `[MANAGER]`
+**Placeholders used:** `[FIRST_NAME]` `[LAST_NAME]` `[UPN]` = [first.last@YOUR_DOMAIN] `[DEPARTMENT]` `[MANAGER]`
 
 ---
 
@@ -13,12 +13,12 @@ Full onboarding procedure for a new user at Family Bridges (familybridges.org). 
 **Portal:** Run on the AD Connect server or a domain-joined machine
 
 1. Open **Active Directory Users & Computers** (ADUC)
-2. Navigate to the correct OU for your org (e.g., `FamilyBridges > Staff > [DEPARTMENT]`)
+2. Navigate to the correct OU for your org (e.g., `[YOUR_ORG] > Staff > [DEPARTMENT]`)
 3. Right-click → **New → User**
 4. Fill in:
    - First name: `[FIRST_NAME]`
    - Last name: `[LAST_NAME]`
-   - User logon name: `[first.last]` → domain: `@familybridges.org`
+   - User logon name: `[first.last]` → domain: `@[YOUR_DOMAIN]`
 5. Set temp password → check **User must change password at next logon**
 6. Click **Finish**
 7. Right-click the new user → **Properties** → fill in: Department, Manager, Office, Phone
@@ -36,10 +36,10 @@ New-ADUser `
   -UserPrincipalName "[UPN]" `
   -Department "[DEPARTMENT]" `
   -Manager "[MANAGER]" `
-  -AccountPassword (ConvertTo-SecureString "TempPass123!" -AsPlainText -Force) `
+  -AccountPassword (ConvertTo-SecureString "[TEMP_PASSWORD]" -AsPlainText -Force) `
   -ChangePasswordAtLogon $true `
   -Enabled $true `
-  -Path "OU=Staff,OU=FamilyBridges,DC=familybridges,DC=org"
+  -Path "OU=Staff,OU=[YOUR_ORG],DC=[ORG],DC=[TLD]"
 # ↑ Replace all placeholders. Path OU must match your actual AD structure.
 ```
 

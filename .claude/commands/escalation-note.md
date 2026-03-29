@@ -1,11 +1,11 @@
-Draft a vendor or Microsoft escalation note for Family Bridges IT. Ask me what vendor and what the issue is. Never ask for employee details.
+Draft a vendor or Microsoft escalation note for [YOUR_ORG] IT. Ask me what vendor and what the issue is. Never ask for employee details.
 
 ---
 
 ## Escalation Note — Draft
 
 **Ask me:**
-1. Which vendor or team are you escalating to? (ATS, Intermedia, BayAlarm, Comcast, Microsoft Support, Cisco/Meraki)
+1. Which vendor or team are you escalating to? ([VOIP_PARTNER], Intermedia, [SECURITY_VENDOR], [ISP_VENDOR], Microsoft Support, Cisco/Meraki)
 2. What is the issue? (brief description)
 3. How long has this been happening?
 4. What's the business impact? (X users down, site offline, etc.)
@@ -17,8 +17,8 @@ Draft a vendor or Microsoft escalation note for Family Bridges IT. Ask me what v
 > We are experiencing [issue] affecting [X users/sites] since [date]. We need Tier 2 escalation. Case: [#]. Please confirm resolution timeline and assign a senior technician.
 
 **Microsoft escalation template:**
-> Tenant: familybridges.org
-> Admin UPN: [admin@familybridges.org]
+> Tenant: [YOUR_DOMAIN]
+> Admin UPN: [admin@YOUR_DOMAIN]
 > Issue: [description]
 > Impact: [X users / X sites affected]
 > Started: [date/time]

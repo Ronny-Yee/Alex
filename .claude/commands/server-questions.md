@@ -1,4 +1,4 @@
-# Server Infrastructure — Checks & Questions Guide — familybridges.org
+# Server Infrastructure — Checks & Questions Guide — [YOUR_DOMAIN]
 
 Use placeholders below. Replace with actual values when running.
 

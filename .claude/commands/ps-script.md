@@ -1,4 +1,4 @@
-Write or explain a PowerShell script for Family Bridges IT. Tenant: familybridges.org | Stack: M365, Entra ID, Intune, Exchange, on-prem AD. Always explain every line in plain English. Use placeholders — never real employee data.
+Write or explain a PowerShell script for [YOUR_ORG] IT. Tenant: [YOUR_DOMAIN] | Stack: M365, Entra ID, Intune, Exchange, on-prem AD. Always explain every line in plain English. Use placeholders — never real employee data.
 
 ---
 
@@ -28,14 +28,14 @@ Write or explain a PowerShell script for Family Bridges IT. Tenant: familybridge
 
 ---
 
-**Common modules used at Family Bridges:**
+**Common modules used at [YOUR_ORG]:**
 
 ```powershell
 # Connect to Microsoft Graph (M365/Entra)
 Connect-MgGraph -Scopes "User.ReadWrite.All", "Group.ReadWrite.All"
 
 # Connect to Exchange Online
-Connect-ExchangeOnline -UserPrincipalName "[admin@familybridges.org]"
+Connect-ExchangeOnline -UserPrincipalName "[admin@YOUR_DOMAIN]"
 
 # Active Directory (run on domain-joined machine)
 Import-Module ActiveDirectory

@@ -1,11 +1,11 @@
-Draft a professional vendor email for Family Bridges IT. Ask me what vendor and what the situation is.
+Draft a professional vendor email for [YOUR_ORG] IT. Ask me what vendor and what the situation is.
 
 ---
 
 ## Vendor Email — Draft
 
 **Ask me:**
-1. Which vendor? (ATS, Intermedia, BayAlarm, Comcast, Microsoft, Meraki/Cisco, other)
+1. Which vendor? ([VOIP_PARTNER], Intermedia, [SECURITY_VENDOR], [ISP_VENDOR], Microsoft, Meraki/Cisco, other)
 2. What's the situation? (escalation, follow-up, new request, complaint, quote request, timeline ask)
 3. What outcome do you need from them?
 4. Tone? (firm escalation / professional follow-up / friendly request) — default: professional and direct

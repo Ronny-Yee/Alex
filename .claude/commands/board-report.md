@@ -1,4 +1,4 @@
-Help me prepare an IT summary report or board presentation for Family Bridges leadership. Ask me what type of document and what I want to cover.
+Help me prepare an IT summary report or board presentation for [YOUR_ORG] leadership. Ask me what type of document and what I want to cover.
 
 ---
 
@@ -21,9 +21,9 @@ Help me prepare an IT summary report or board presentation for Family Bridges le
 - Length: 1 page max unless requested longer
 
 **Active projects I can pull from:**
-- VoIP migration (Hong Fook + Harrison) — ATS vs Comcast competing
+- VoIP migration ([SITE_A] + [SITE_B]) — [VOIP_PARTNER] vs [ISP_VENDOR] competing
 - P2P → Meraki site-to-site VPN migration
-- BayAlarm security upgrade (tied to VoIP)
+- [SECURITY_VENDOR] security upgrade (tied to VoIP)
 - Jira Service Management rollout (2026)
 - Alex Comrade Amprius AI IT agent
 

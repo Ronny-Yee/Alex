@@ -1,4 +1,4 @@
-Draft a professional Jira ticket reply for Family Bridges IT. Ask what the ticket is about and what tone. Never ask for employee details.
+Draft a professional Jira ticket reply for [YOUR_ORG] IT. Ask what the ticket is about and what tone. Never ask for employee details.
 
 ---
 

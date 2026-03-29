@@ -1,8 +1,8 @@
-Write an IT incident report for Family Bridges. Tell me what happened and I'll write the full report.
+Write an IT incident report for [YOUR_ORG]. Tell me what happened and I'll write the full report.
 
 ---
 
-## Incident Report Writer — Family Bridges IT
+## Incident Report Writer — [YOUR_ORG] IT
 
 **Tell me:**
 1. What happened? (brief description of the incident)
@@ -17,7 +17,7 @@ Write an IT incident report for Family Bridges. Tell me what happened and I'll w
 
 ```
 IT INCIDENT REPORT
-Family Bridges — familybridges.org
+[YOUR_ORG] — [YOUR_DOMAIN]
 
 Incident Title: [Short description]
 Date: [Date]
