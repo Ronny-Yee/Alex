@@ -1,10 +1,10 @@
-# Family Bridges IT Ops — Skill Knowledge Base
+# [YOUR_ORG] IT Ops — Skill Knowledge Base
 
 ## Environment
 
 | Item | Detail |
 |------|--------|
-| Tenant | familybridges.org |
+| Tenant | [YOUR_DOMAIN] |
 | Users | ~120 on M365 Business Premium |
 | Identity | Hybrid AD + Entra Connect sync (create users in on-prem AD first) |
 | Devices | Windows (majority), few Macs, iPhones, Android (Moto G), MDM work phones |
@@ -13,8 +13,8 @@
 | ISP | Comcast fiber |
 | WAN | P2P fiber (main ↔ HFC office) → migrating to Meraki site-to-site VPN |
 | Remote access | TightVNC (temp) + Client VPN for remote workers |
-| VoIP | Intermedia Unite — migrated from Toshiba PRI; Hong Fook + Harrison still in progress |
-| Security | BayAlarm — upgrading to internet-based |
+| VoIP | Intermedia Unite — migrated from Toshiba PRI; [SITE_A] + [SITE_B] still in progress |
+| Security | [SECURITY_VENDOR] — upgrading to internet-based |
 | Ticketing | Jira Service Management (cloud, 2026) |
 | MFA | Microsoft Authenticator + SMS fallback |
 
@@ -34,10 +34,10 @@
 
 | Project | Status | Key Detail |
 |---------|--------|-----------|
-| VoIP migration — Hong Fook + Harrison | In progress | ATS vs Comcast competing; ATS handles cabling |
+| VoIP migration — [SITE_A] + [SITE_B] | In progress | [VOIP_PARTNER] vs [ISP_VENDOR] competing; [VOIP_PARTNER] handles cabling |
 | P2P → Site-to-site VPN | In progress | TightVNC still running; Meraki S2S is the target |
-| BayAlarm upgrade | Planning | Tie to VoIP migration — eliminate Comcast landlines |
-| Alex Comrade Amprius | Active | GitHub: Ronny-Yee/Alex |
+| [SECURITY_VENDOR] upgrade | Planning | Tie to VoIP migration — eliminate [ISP_VENDOR] landlines |
+| Alex Comrade Amprius | Active | GitHub: [YOUR_GITHUB]/Alex |
 | Jira Service Management | In progress | 2026 rollout — DevOps / Get IT Help space |
 
 ---
@@ -64,7 +64,7 @@
 | `[MANAGER]` | Manager's name |
 | `[MANAGER_UPN]` | Manager's UPN |
 | `[DEVICE_NAME]` | Device hostname |
-| `[admin@familybridges.org]` | IT admin UPN |
+| `[admin@YOUR_DOMAIN]` | IT admin UPN |
 
 ---
 
@@ -123,7 +123,7 @@
 > We are experiencing [issue] affecting [X users/sites] since [date]. We need Tier 2 escalation. Case: [#]. Please confirm resolution timeline.
 
 **Microsoft:**
-> Tenant: familybridges.org | Admin UPN: [admin@familybridges.org] | Issue: [description] | Impact: [X users] | Started: [date] | Steps tried: [list]
+> Tenant: [YOUR_DOMAIN] | Admin UPN: [admin@YOUR_DOMAIN] | Issue: [description] | Impact: [X users] | Started: [date] | Steps tried: [list]
 
 **Internal:**
 > Hi [Name], working on a ticket and want to check before I proceed. Situation: [what's happening]. What I've done: [steps]. Where I'm stuck: [specific question].
